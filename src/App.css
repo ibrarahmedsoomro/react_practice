@@ -1,0 +1,14 @@
+.transaction-list {
+  margin: 0px;
+
+}
+
+.trnsaction-list > li {
+  display: flex;
+  margin: 5px;
+  justify-content: space-around;
+  padding: 10px 5px;
+  background-color: white;
+  margin : 5px;
+
+}
