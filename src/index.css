@@ -4,20 +4,28 @@
   box-sizing: border-box;
 }
 
-.heading {
+body {
+  background-color: orange;
+}
+
+.headings {
 
   color : navy;
   text-align: center;
   text-transform: capitalize;
-  margin: 70px;
+  margin: 250px;
   font-family: 'Kumbh Sans', sans-serif;
-}
+} 
 
-.image1 {
+
+
+
+
+/* .image1 {
   width: 300;
   height: 300;
   box-shadow: burlywood;
   display: flex;
   justify-content: space-around;
   box-shadow:  gray;
-}
+} */
